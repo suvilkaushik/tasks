@@ -23,7 +23,7 @@ FAIL src/text.test.tsx
           [36m<header[39m
             [33mclass[39m=[32m"App-header"[39m
           [36m>[39m
-            [0mSuvil Kaushik 1 UD CISC275 with React Hooks and TypeScript[0m
+            [0mSuvil Kaushik UD CISC275 with React Hooks and TypeScript[0m
           [36m</header>[39m
           [36m<p>[39m
             [0mEdit [0m
@@ -58,5 +58,5 @@ All files |     100 |      100 |     100 |     100 |
 Test Suites: 1 failed, 1 passed, 2 total
 Tests:       1 failed, 1 passed, 2 total
 Snapshots:   0 total
-Time:        1.801 s
+Time:        1.708 s
 Ran all test suites.
