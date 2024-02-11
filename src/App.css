@@ -7,6 +7,12 @@
     pointer-events: none;
 }
 
+.Rect {
+    width: 300px;
+    height: 75px;
+    background-color: #ff0000;
+}
+
 .App-image {
     height: 500px;
 }
