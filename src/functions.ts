@@ -54,6 +54,3 @@ export function convertYesNo(word: string): boolean | null {
         return null;
     }
 }
-function lastIndexOf(message: string) {
-    throw new Error("Function not implemented.");
-}
