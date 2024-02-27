@@ -48,6 +48,8 @@ export function isValid(question: Question, answer: string): boolean {
     } else if (question.type === "multiple_choice_question") {
         const isV = question.options.includes(answer);
         return isV;
+    } else {
+        return false;
     }
 }
 
