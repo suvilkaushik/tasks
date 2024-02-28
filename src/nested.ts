@@ -1,4 +1,4 @@
-import { queries } from "@testing-library/react";
+// import { queries } from "@testing-library/react";
 import { Answer } from "./interfaces/answer";
 import { Question as Question, QuestionType } from "./interfaces/question";
 import { makeBlankQuestion, duplicateQuestion } from "./objects";
